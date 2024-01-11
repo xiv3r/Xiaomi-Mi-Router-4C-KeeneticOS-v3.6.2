@@ -1,5 +1,4 @@
-# Xiaomi-Router-4C-Keenetic-v3.6.2-Firmware
-Install Keenetic 3.6.2 Firmware on Xiaomi Router 4C
+## Install Keenetic 3.6.2 Firmware on Xiaomi Router 4C
 
 
 <img align="center" width="800" height="600" src="https://github.com/xiv3r/Xiaomi-Mi-Router-4A-Gigabit-KeeneticOS-3.7.4/blob/main/firmwares/Screenshot_2023_1227_121024.png">
@@ -13,19 +12,21 @@ Note: Tested on R4C with firmware 2.14.128 and 3.0.23.
 
 ## Installations:
 
- 1. [Download Here!!!](https://codeload.github.com/xiv3r/Xiaomi-Router-4C-Keenetic-v3.7.4-Firmware/zip/refs/heads/main)   the archive with scripts and unpack it. There are many files in the folder, we are only interested in `!Start.bat`.
+0. [Download Here!!!](https://codeload.github.com/xiv3r/Xiaomi-Mi-Router-4C-Keenetic-v3.6.2/zip/refs/heads/main)the archive with scripts, unpack. Run `!Start.bat`
 
- 2. First `Reset` the router then reconfigure it again with a password of `12345678`.
- 
- 3. Connect your router to the PC.
+0.1 If Breed is already installed, go to step 4
 
- 4. Run `!Start.bat` select item `11`  Follow the instructions on the window. place the password `12345678`
+1. Reset the router, go through the initial setup and set a password (for further convenience, set 12345678). Connect you lan cable to your pc
 
- 5. Run `22` , a backup of your firmware will be created in the `/data` folder.
+2. Run `!Start.bat` and select items from 1 2 and 3 one by one. There will be a backup eeprom in the data folder. Keep them!
 
- 6. Run `55` - to install Keenetic. wait 5-10 minutes then the firmware will be installed
- 
- 7. Go to [http://192.168.1.1](http://192.168.1.1)
+
+3. After flashing unplug the router, power it on while holding reset button then open browser Go to Breed at 192.168.1.1
+
+4. Download the firmware according to the instructions from the picture indicated in the archive or under the spoiler below. Attention , someone else’s eeprom with poppies and calibrations is already built into the firmware, you can use it this way, or change the eeprom to yours received in step 2
+
+
+5. Default access 192.168.1.1 login: admin password: 12345678. Wi-Fi: 12345678
 
 
 [RECOVERY](https://github.com/xiv3r/Xiaomi-Mi-Router-4C-CH341A-Flasher)
