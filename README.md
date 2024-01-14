@@ -19,14 +19,18 @@ Note: Tested on R4C with firmware 2.14.128 and 3.0.23.
 
 - Run `!Start.bat` and select items from 1 2 and 3 one by one. There will be a backup eeprom in the data folder. Keep them!
 
-- After flashing breed unplug the router, power it on while holding reset button then open browser Go to Breed at 192.168.1.1
+![1](https://github.com/xiv3r/Xiaomi-Mi-Router-4C-Keenetic-v3.6.2/assets/117867334/516ad8f4-8a19-4cc6-bc42-08306ae8bf41)
+
+
+- After flashing the breed unplug the router power adapter, power it on while holding reset button for 10s connect your lan cable then go to browser and type 192.168.1.1
+
 <img src="https://github.com/xiv3r/Xiaomi-Mi-Router-4C-Keenetic-v3.6.2/blob/main/Êàê%2Bïðîøèâàòü.jpg">
 
 
-- Upload 16mb Keenetic 3.6.2 mod .bin
+- Upload 16mb `Keenetic 3.6.2 mod .bin`
+
 
 - Default access 192.168.1.1 login: admin password: 12345678 Wi-Fi: 12345678
-
 
 
 
