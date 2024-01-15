@@ -1,3 +1,9 @@
+
+
+![4c](https://github.com/xiv3r/Xiaomi-Mi-Router-4C-Keenetic-v3.6.2/assets/117867334/a6916740-8bd3-4a99-b3e4-5430dffad04d)
+
+
+
 ## <h1> Install KeeneticOS 3.6.2 on Xiaomi Mi Router 4C </h1>
 
 
