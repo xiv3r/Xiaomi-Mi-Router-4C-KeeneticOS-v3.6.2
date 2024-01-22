@@ -4,17 +4,17 @@
 
 
 
-## <h1> Install KeeneticOS 3.6.2 on Xiaomi Mi Router 4C </h1>
-
-
-<img align="center" width="800" height="600" src="https://github.com/xiv3r/Xiaomi-Mi-Router-4A-Gigabit-KeeneticOS-3.7.4/blob/main/firmwares/Screenshot_2023_1227_121024.png">
-
-
+## <h1 align="center">KeeneticOS 3.6.2 Mod for Xiaomi Mi Router 4C </h1>
 Note: SPI_NOR must be GigaDevice GD25Q128B | WINBOND W25Q128 | CFEON EN25QX128A
 
 Note: If you have a router without USB, then you can install it too.
 
 Note: Tested on R4C with firmware 2.14.128 and 3.0.23.
+
+<img align="center" width="800" height="600" src="https://github.com/xiv3r/Xiaomi-Mi-Router-4A-Gigabit-KeeneticOS-3.7.4/blob/main/firmwares/Screenshot_2023_1227_121024.png">
+
+
+
 
 ## Installations:
 
