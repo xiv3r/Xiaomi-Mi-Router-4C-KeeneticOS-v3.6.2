@@ -13,7 +13,7 @@ Note: Tested on R4C with firmware 2.14.128 and 3.0.23.
 
 <br><br></br>
 
-<img align="center" width="800" height="600" src="https://github.com/xiv3r/Xiaomi-Mi-Router-4A-Gigabit-KeeneticOS-3.7.4/blob/main/firmwares/Screenshot_2023_1227_121024.png">
+<img align="center" width="1100" height="700" src="https://github.com/xiv3r/Xiaomi-Mi-Router-4A-Gigabit-KeeneticOS-3.7.4/blob/main/firmwares/Screenshot_2023_1227_121024.png">
 
 
 
