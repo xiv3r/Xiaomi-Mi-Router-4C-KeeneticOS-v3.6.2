@@ -11,6 +11,8 @@ Note: If you have a router without USB, then you can install it too.
 
 Note: Tested on R4C with firmware 2.14.128 and 3.0.23.
 
+<br><br></br>
+
 <img align="center" width="800" height="600" src="https://github.com/xiv3r/Xiaomi-Mi-Router-4A-Gigabit-KeeneticOS-3.7.4/blob/main/firmwares/Screenshot_2023_1227_121024.png">
 
 
@@ -41,5 +43,7 @@ Note: Tested on R4C with firmware 2.14.128 and 3.0.23.
 ### change service tag for wireless mesh connection
 ![3](https://github.com/xiv3r/Xiaomi-Mi-Router-4C-Keenetic-v3.6.2/assets/117867334/a3ddebb9-c2d3-41cd-b1fe-40b21001223d)
 
-
+<h1 align="center">
+  
 👉 [RECOVERY](https://github.com/xiv3r/Xiaomi-Mi-Router-4C-CH341A-Flasher)
+</h1>
